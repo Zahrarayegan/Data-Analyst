@@ -1,0 +1,15 @@
+Cg =int(input("lotfan add ra vared konid: "))
+if Cg in range(1, 10):
+    print("shoma rad shode id ")
+elif Cg in range (10, 12):
+    print("shoma mashrot shode id")
+elif Cg in range (12, 15):
+    print("shoma gabol shode id") 
+elif Cg in range (15, 18):
+    print("nomre shoma kheyli khob ast")
+elif Cg in range(18, 20):
+    print("shoma vagean aali hastid")
+
+else:
+    print("lotfan add ra mojadadn vared konid")    
+                     

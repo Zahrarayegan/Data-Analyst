@@ -1,0 +1,4 @@
+a =int(input("enter first number: "))
+b =int(input("enter second number: "))
+for x in range(a,b):
+    print(x)
